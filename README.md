@@ -1,6 +1,6 @@
 # 🔍 Image Zoom Userscript
 
-[![Add to tampermonkey](https://img.shields.io/badge/add%20to-tampermonkey-green)](image-zoom.user.js)
+[![Add to tampermonkey](https://img.shields.io/badge/add%20to-tampermonkey-green)](https://github.com/UnicodeError0041/image-zoom-userscript/raw/main/image-zoom.user.js)
 
 ## Overview
 
@@ -14,7 +14,7 @@ To get started, you need a userscript manager. Here are some good options:
 - **Greasemonkey**: [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/greasemonkey/)
 - **Violentmonkey**: [Chrome Web Store](https://chrome.google.com/webstore/detail/violentmonkey/jinjaccalgkegednnccohejagnlnfdag) | [Firefox Add-ons](https://addons.mozilla.org/en-US/firefox/addon/violentmonkey/)
 
-After that, just click [here](image-zoom.user.js), or follow these steps:
+After that, just click [here](https://github.com/UnicodeError0041/image-zoom-userscript/raw/main/image-zoom.user.js), or follow these steps:
 
 - Install one of the userscript managers from the links above.
 - Open your userscript manager's dashboard.
@@ -62,7 +62,3 @@ Check out these sample images from Lorem Picsum to see the script in action:
 ## License
 
 This script is under the MIT License.
-
----
-
-Happy zooming!
